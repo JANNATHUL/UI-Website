@@ -1,2 +1,2 @@
-# UI Website
+# UI Template
  Theme-Based Marketing
